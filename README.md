@@ -28,4 +28,4 @@ Directory | Files
 [0x07-pointers_arrays_strings](https://github.com/Sirbor/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings) | 0-memset.c, 1-memcpy.c, 2-strchr.c, 3-strspn.c, 4-strpbrk.c, 5-strstr.c, 7-print_chessboard.c, 8-print_diagsums.c, 100-set_string.c, 101-crackme_password
 [0x08-recursion](https://github.com/Sirbor/alx-low_level_programming/tree/master/0x08-recursion) | 0-puts_recursion.c ,1-print_rev_recursion.c ,2-strlen_recursion.c ,3-factorial.c ,4-pow_recursion.c  ,5-sqrt_recursion.c ,6-is_prime_number.c ,100-is_palindrome.c ,101-wildcmp.c ,main.h,  _putchar.c
 [0x09-static_libraries](https://github.com/Sirbor/alx-low_level_programming/tree/master/0x09-static_libraries) | libmy.a, main.h, create_static_lib.sh
-[0x0A-argc_argv]((https://github.com/Sirbor/alx-low_level_programming/tree/master/0x0A-argc_argv) | 0-whatsmyname.c, 1-args.c, 2-args.c, 3-mul.c, 4-add.c, 100-change.c
+[0x0A-argc_argv](https://github.com/Sirbor/alx-low_level_programming/tree/master/0x0A-argc_argv) | 0-whatsmyname.c, 1-args.c, 2-args.c, 3-mul.c, 4-add.c, 100-change.c
