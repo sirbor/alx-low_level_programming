@@ -29,3 +29,5 @@ Directory | Files
 [0x08-recursion](https://github.com/Sirbor/alx-low_level_programming/tree/master/0x08-recursion) | 0-puts_recursion.c ,1-print_rev_recursion.c ,2-strlen_recursion.c ,3-factorial.c ,4-pow_recursion.c  ,5-sqrt_recursion.c ,6-is_prime_number.c ,100-is_palindrome.c ,101-wildcmp.c ,main.h,  _putchar.c
 [0x09-static_libraries](https://github.com/Sirbor/alx-low_level_programming/tree/master/0x09-static_libraries) | libmy.a, main.h, create_static_lib.sh
 [0x0A-argc_argv](https://github.com/Sirbor/alx-low_level_programming/tree/master/0x0A-argc_argv) | 0-whatsmyname.c, 1-args.c, 2-args.c, 3-mul.c, 4-add.c, 100-change.c
+[0x0B-malloc_free](https://github.com/Sirbor/alx-low_level_programming/tree/master/0x0B-malloc_free) | 0-create_array.c, 1-strdup.c, 2-str_concat.c, 3-alloc_grid.c, 4-free_grid.c, 100-argstostr.c, 101-strtow.
+[0x0C-more_malloc_free](https://github.com/Sirbor/alx-low_level_programming/tree/master/0x0C-more_malloc_free) |0-malloc_checked.c, 1-string_nconcat.c, 2-calloc.c, 3-array_range.c, 100-realloc.c, 101-mul.c
