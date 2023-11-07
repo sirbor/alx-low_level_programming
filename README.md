@@ -32,3 +32,4 @@ Directory | Files
 [0x0B-malloc_free](https://github.com/Sirbor/alx-low_level_programming/tree/master/0x0B-malloc_free) | 0-create_array.c, 1-strdup.c, 2-str_concat.c, 3-alloc_grid.c, 4-free_grid.c, 100-argstostr.c, 101-strtow.
 [0x0C-more_malloc_free](https://github.com/Sirbor/alx-low_level_programming/tree/master/0x0C-more_malloc_free) |0-malloc_checked.c, 1-string_nconcat.c, 2-calloc.c, 3-array_range.c, 100-realloc.c, 101-mul.
 [0x0D-preprocessor](https://github.com/Sirbor/alx-low_level_programming/tree/master/0x0D-preprocessor) |0-object_like_macro.h, 1-pi.h, 2-main.c, 3-function_like_macro.h, 4-sum.h
+[0x0E-structures_typedef](https://github.com/Sirbor/alx-low_level_programming/tree/master/0x0E-structures_typedef) | dog.h, 1-init_dog.c, 2-print_dog.c, 4-new_dog.c, 5-free_dog.c
