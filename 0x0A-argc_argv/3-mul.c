@@ -1,22 +1,18 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 /**
- *main - program that multiplies two numbers.
- *@argc: number of arguments
- *@argv: array with the arguments
- *Return: always 0
+ * main - multiplies two numbers.
+ * @argc: number of command line arguments.
+ * @argv: array that contains the program command line arguments.
+ * Return: 0 - success.
  */
-
 int main(int argc, char *argv[])
 {
-	int mult = 0;
-	char c[] = "Error";
 	if (argc != 3)
-	{printf("%s\n", c);
+	{
+		printf("Error\n");
 		return (1);
 	}
-	mult = atoi(argv[1]) * atoi(argv[2]);
-	printf("%i\n", mult);
+	printf("%d\n", atoi(argv[1]) * atoi(argv[2]));
 	return (0);
 }

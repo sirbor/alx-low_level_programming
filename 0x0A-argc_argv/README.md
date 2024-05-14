@@ -1,9 +1,10 @@
-File 0-whatsmyname.c is a program that prints its name, followed by a new line.
+This Directory is made up of files which contains codes that illustrates and demonstrates concepts in;
 
-File 1-args.c is a program that prints the number of arguments passed into it.
+Arguments to main
+argc and argv
+What does argc and argv mean?
+how to compile with unused variables
 
-File 2-args.c is a program that prints all arguments it receives.
-
-File 3-mul.c is a program that multiplies two numbers.
-
-File 4-add.c is a program that adds positive numbers.
+How to use arguments passed to your program
+What are two prototypes of main that you know of, and in which case do you use one or the other
+How to use __attribute__((unused)) or (void) to compile functions with unused variables or parameters
